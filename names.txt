@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 apurav
 astitav 
 ridhima 
+=======
+ridhima fdsfsf
+>>>>>>> branch2
 Akhilesh
 Shali
-Abhishek
+Abhishekfdfdsfds
